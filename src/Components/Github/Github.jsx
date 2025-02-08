@@ -18,22 +18,6 @@ function Github() {
         {data.login} : {data.followers}
        <img src={data.avatar_url} alt="" width={180} className='rounded-lg'/>
     </div>
-      <div className='text-center text-white bg-gray-600 text-4xl font-bold p-6 rounded'>
-        {data.login} : {data.followers}
-       <img src={data.avatar_url} alt="" width={180} className='rounded-lg'/>
-    </div>
-      <div className='text-center text-white bg-gray-600 text-4xl font-bold p-6 rounded'>
-        {data.login} : {data.followers}
-       <img src={data.avatar_url} alt="" width={180} className='rounded-lg'/>
-    </div>
-      <div className='text-center text-white bg-gray-600 text-4xl font-bold p-6 rounded'>
-        {data.login} : {data.followers}
-       <img src={data.avatar_url} alt="" width={180} className='rounded-lg'/>
-    </div>
-      <div className='text-center text-white bg-gray-600 text-4xl font-bold p-6 rounded'>
-        {data.login} : {data.followers}
-       <img src={data.avatar_url} alt="" width={180} className='rounded-lg'/>
-    </div>
     </>
   )
 }
